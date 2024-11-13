@@ -1,6 +1,3 @@
 alpine
 nacos/nacos-mysql
-opensearchproject/opensearch
-grafana/grafana
-opensearchproject/opensearch-dashboards
 
