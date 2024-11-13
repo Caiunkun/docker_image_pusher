@@ -1,4 +1,1 @@
-
- opensearch-node1
-
-  mysql
+redis
