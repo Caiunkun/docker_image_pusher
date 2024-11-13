@@ -1,2 +1,2 @@
 redis
-gluenet/opensearch-node1
+nacos/nacos-server
